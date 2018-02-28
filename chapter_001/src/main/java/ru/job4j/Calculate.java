@@ -2,7 +2,7 @@ package ru.job4j;
 
 /**
 * Описание класса - Calculate.
-* @Author Arkadiy Eremeev ChandlerXAAP@yandex.ru.
+* @Author Arkadiy Eremeev (ChandlerXAAP@yandex.ru).
 */
 public class Calculate {
     /**
