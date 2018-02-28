@@ -1,9 +1,18 @@
 package ru.job4j;
+
+/**
+* Описание класса - Calculate.
+* @Author Arkadiy Eremeev ChandlerXAAP@yandex.ru.
+*/
 public class Calculate {
-// Задаем класс Calculate
+    /**
+	* Main.
+	* @param args - args.
+	*/
 	public static void main(String[] args) {
-	//задаем метод main 
-		System.out.println("Hello world!");
-		//Тело метода,который содержит объект System.out, метод println(отображает текст в виде строки(тип string))  и параметр(Hello world)
+	    /**
+		* Вывести текст Hello world.
+		*/
+		System.out.println("Hello world!");		
 	}
 }
