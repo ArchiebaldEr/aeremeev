@@ -11,7 +11,7 @@ public class Calculate {
 	 */
 	public static void main(String[] args) {
 		/**
-		 * Вывести  текст Hello world.
+		 * Вывести текст Hello world.
 		 */
 		System.out.println("Hello world!");
 	}
