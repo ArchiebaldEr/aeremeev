@@ -8,6 +8,7 @@ public class ConverterTest {
     final int euro = 70;
     final int dollar = 60;
     final int ruble = 1;
+
     @Test
     public void when60RubleToDollarThen1() {
         Converter converter = new Converter();
